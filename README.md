@@ -1,4 +1,4 @@
-###🦁🐯 GUESS THE ANIMAL - C++ TERMINAL GAME 🎮  **
+### 🦁🐯 GUESS THE ANIMAL - C++ TERMINAL GAME 🎮  **
 🤖❓ Can a bot guess the animal you're thinking of? Help it learn and evolve!
 
 Welcome to **Guess the Animal**, a smart and interactive C++ game powered by a learning AI that gets smarter every time you play!  
