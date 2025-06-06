@@ -3,9 +3,9 @@
 
 Welcome to Guess the Animal, a smart and interactive C++ game powered by a learning AI that gets smarter every time you play! Teach the bot about new animals using yes/no questions, and watch it grow into the ultimate zoologist! 🧠🦍
 
-**🎮 GAME MODES
+**🎮 GAME MODES**
 
-🧍 SINGLE PLAYER MODE**
+🧍 SINGLE PLAYER MODE
 
 Think of an animal silently in your mind.
 
@@ -27,13 +27,10 @@ When the bot guesses wrong, it inserts a new question node above the current ani
 
 🧠 Example:
 
-markdown
-Copy
-Edit
-          Does it fly?
+ (```)    Does it fly?
            /      \
         Cat       Eagle
-
+ (```)
 
 **📜 HOW TO PLAY**
 
@@ -75,12 +72,11 @@ This bot starts with zero knowledge. Every time you beat it, you help it learn �
 
 **🚀 COMPILE & RUN**
 
-bash
-Copy
-Edit
+ (```)
 g++ animalGame.cpp -o guessAnimal
 ./guessAnimal
 
+ (```)
 **⚠️ NOTES**
 
 Answers must be Y or N (case-insensitive)
