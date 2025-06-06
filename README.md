@@ -25,12 +25,7 @@ Left = ❌ "No", Right = ✅ "Yes"
 
 When the bot guesses wrong, it inserts a new question node above the current animal node and updates the tree.
 
-🧠 Example:
-
- (```)    Does it fly?
-           /      \
-        Cat       Eagle
- (```)
+<pre> ``` 💡 Example: ( ) Does it fly? / \ Cat Eagle ( ) ``` </pre>
 
 **📜 HOW TO PLAY**
 
@@ -72,11 +67,12 @@ This bot starts with zero knowledge. Every time you beat it, you help it learn �
 
 **🚀 COMPILE & RUN**
 
- (```)
+<pre> ```( )
 g++ animalGame.cpp -o guessAnimal
 ./guessAnimal
+ ( ) ``` </pre>
 
- (```)
+ 
 **⚠️ NOTES**
 
 Answers must be Y or N (case-insensitive)
